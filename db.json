@@ -1,0 +1,18 @@
+{
+  "links": [
+    {
+      "id": "1",
+      "titulo": "Documentação Oficial do React",
+      "url": "https://react.dev",
+      "categoria": "Programação",
+      "lido": true
+    },
+    {
+      "id": "2",
+      "titulo": "Guia do TypeScript",
+      "url": "https://www.typescriptlang.org/",
+      "categoria": "Programação",
+      "lido": false
+    },
+  ]
+}
